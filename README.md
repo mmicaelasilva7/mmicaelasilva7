@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Micaela Silva
-#### I am web developer & BA student 
- I am currently studying for Business administration at the UNLaM. Besides, I have knowledge of Html, Css, JavaScript, SQL, Figma and Adobe XD. **I enjoy making websites and learning about code** 💖
-
+#### 
 Skills: SQL / JS / HTML / CSS
 
 - ⚡ I’m currently working on projects to improve my skills  
