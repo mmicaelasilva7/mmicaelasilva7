@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Micaela Silva
 #### 
-Skills: SQL / JS / HTML / CSS
+Skills: SQL / HTML / CSS
 
 - ⚡ I’m currently working on projects to improve my skills  
 
